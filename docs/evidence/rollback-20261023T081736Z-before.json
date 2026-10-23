@@ -1,0 +1,71 @@
+[
+  {
+    "id": "architecture-review@dev-digest-ai-marketplace",
+    "version": "1.0.0",
+    "scope": "project",
+    "enabled": true,
+    "installPath": "/home/oleksandrvorona/.claude/plugins/cache/dev-digest-ai-marketplace/architecture-review/1.0.0",
+    "installedAt": "2026-10-23T07:54:40.268Z",
+    "lastUpdated": "2026-10-23T07:54:40.268Z",
+    "projectPath": "/home/oleksandrvorona/playground/neoversity/sdd-consumer-demo"
+  },
+  {
+    "id": "compound-engineering@compound-engineering-plugin",
+    "version": "2.40.0",
+    "scope": "local",
+    "enabled": false,
+    "installPath": "/home/oleksandrvorona/.claude/plugins/cache/compound-engineering-plugin/compound-engineering/2.40.0",
+    "installedAt": "2026-03-13T16:39:00.960Z",
+    "lastUpdated": "2026-03-13T16:39:00.960Z",
+    "projectPath": "/home/oleksandrvorona/playground/calude-test-bot"
+  },
+  {
+    "id": "engineering-paved-path@dev-digest-ai-marketplace",
+    "version": "1.0.0",
+    "scope": "project",
+    "enabled": true,
+    "installPath": "/home/oleksandrvorona/.claude/plugins/cache/dev-digest-ai-marketplace/engineering-paved-path/1.0.0",
+    "installedAt": "2026-10-23T07:54:40.287Z",
+    "lastUpdated": "2026-10-23T07:54:40.287Z",
+    "projectPath": "/home/oleksandrvorona/playground/neoversity/sdd-consumer-demo"
+  },
+  {
+    "id": "research-tools@dev-digest-ai-marketplace",
+    "version": "1.0.0",
+    "scope": "project",
+    "enabled": true,
+    "installPath": "/home/oleksandrvorona/.claude/plugins/cache/dev-digest-ai-marketplace/research-tools/1.0.0",
+    "installedAt": "2026-10-23T07:54:40.303Z",
+    "lastUpdated": "2026-10-23T07:54:40.303Z",
+    "projectPath": "/home/oleksandrvorona/playground/neoversity/sdd-consumer-demo"
+  },
+  {
+    "id": "sdd-engineering@dev-digest-ai-marketplace",
+    "version": "1.1.0",
+    "scope": "project",
+    "enabled": true,
+    "installPath": "/home/oleksandrvorona/.claude/plugins/cache/dev-digest-ai-marketplace/sdd-engineering/1.1.0",
+    "installedAt": "2026-10-23T07:54:40.260Z",
+    "lastUpdated": "2026-10-23T08:17:23.274Z",
+    "projectPath": "/home/oleksandrvorona/playground/neoversity/sdd-consumer-demo"
+  },
+  {
+    "id": "skill-creator@claude-plugins-official",
+    "version": "c447c3207a42",
+    "scope": "user",
+    "enabled": true,
+    "installPath": "/home/oleksandrvorona/.claude/plugins/cache/claude-plugins-official/skill-creator/c447c3207a42",
+    "installedAt": "2026-09-19T08:25:58.344Z",
+    "lastUpdated": "2026-09-19T08:25:58.344Z"
+  },
+  {
+    "id": "superpowers@claude-plugins-official",
+    "version": "5.0.2",
+    "scope": "project",
+    "enabled": false,
+    "installPath": "/home/oleksandrvorona/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.2",
+    "installedAt": "2026-03-16T09:25:46.279Z",
+    "lastUpdated": "2026-03-16T09:25:46.279Z",
+    "projectPath": "/home/oleksandrvorona/playground/calude-test-bot"
+  }
+]
